@@ -74,3 +74,4 @@ Sigue los pasos para hacer lo siguiente:
     público, cualquiera de los/as miembros de la asignatura también
     podrá hacerlo.
 ## Hola issue
+Cuántos terremotos ocurren en la República Dominicana en un año?
