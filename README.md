@@ -73,5 +73,3 @@ Sigue los pasos para hacer lo siguiente:
     por correo electrónico. Yo “intentaré” ayudar y, si el repo es
     público, cualquiera de los/as miembros de la asignatura también
     podrá hacerlo.
-## Hola issue
-Cuántos terremotos ocurren en la República Dominicana en un año?
